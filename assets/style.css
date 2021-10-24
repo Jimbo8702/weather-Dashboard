@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+header {
+  background-color: lightblue;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  border-bottom: 5px solid rgb(23, 78, 113);
+}
+header h1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
